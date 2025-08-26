@@ -1,0 +1,8 @@
+streamlit
+openai
+requests
+langchain
+faiss-cpu
+datasets
+python-dotenv
+tiktoken

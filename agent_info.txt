@@ -1,0 +1,6 @@
+
+An AI agent is a system that can understand its environment, make decisions, and take actions to achieve specific goals. A key characteristic of modern AI agents is their ability to use "tools."
+
+Tool-calling is the process where an agent dynamically selects and uses an external function or API to perform a task it cannot do on its own. For example, an agent might use a Web Search tool to get real-time information, a Calculator tool for precise math, or a Document Q&A tool to look up specific facts in a provided text.
+
+This process, often orchestrated by a central "controller," allows agents to decompose complex problems into smaller, manageable sub-tasks and delegate them to the appropriate tool, making them far more powerful and versatile.
