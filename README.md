@@ -1,4 +1,3 @@
-Here is a detailed, professional **README.md** template for your Tool Calling AI Agent project. This version is tailored for clarity, smooth setup, and quick execution by judges or any reviewer.
 
 ***
 
